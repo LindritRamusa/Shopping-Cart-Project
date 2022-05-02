@@ -11,7 +11,7 @@ const items =[
         name: "Adidas ",
         price: 99.00,
         category: 'Footwear',
-        description: "Lorem ipsum dolor sit amet. Id asperiores placeat 33 sunt eos quam tenetur cum natus magni qui perferendis nisi sit quaerat perspiciatis. Rem similique omnis eum quibusdam iure qui rerum ipsum."
+        description: "Adidas, in full Adidas AG, German manufacturer of athletic shoes and apparel and sporting goods. In the early 21st century it was the largest sportswear manufacturer in Europe and the second largest (after Nike) in the world."
     },
     {
         id: 3,
